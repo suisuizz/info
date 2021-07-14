@@ -1,8 +1,6 @@
-# other
+# INFO
 
-## test
-
-### 代码提交
+### GIT
 
 1.  git add .
 2.  git commit -m "update" 
